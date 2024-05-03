@@ -1,1 +1,2 @@
 # Detector-de-SQL-Injection
+El siguiente proyecto busca elaborar un modelo predictivo para evitar posibles casos de SQL Injections mediante el entrenaminto de diversos modelos con distintos datasets, siendo el objetivo final buscar un modelo consistente dada la variedad de datos y una comparativa general sobre el rendimiento de los modelos en ambos datasets. Cabe recalcar que los conjuntos de datos fueron sacados de la plataforma Kaggle.
